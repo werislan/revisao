@@ -21,7 +21,7 @@ else if($n<0){
 
 }
 else{
-    echo "esse numero e nulo";
+     echo "esse numero e nulo";
 }
 
  ?>       
