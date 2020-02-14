@@ -17,7 +17,7 @@ if ($n>0){
 echo "esse numero e positivo";
 }
 else if($n<0){
-    echo "esse numero e negativo";
+    echo "esse numero e negativo";   
 
 }
 else{
